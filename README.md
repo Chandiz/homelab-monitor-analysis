@@ -142,3 +142,7 @@ DISK: 0.00
 ## License
 
 This project is for learning purposes.
+
+## Author
+
+CHANDIKA WIJESOORIYA.
